@@ -1,0 +1,3 @@
+C:/Users/Piotr/Desktop/MAX3SAT/cmake-build-release/CMakeFiles/MAX3SAT.dir
+C:/Users/Piotr/Desktop/MAX3SAT/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/Piotr/Desktop/MAX3SAT/cmake-build-release/CMakeFiles/rebuild_cache.dir
